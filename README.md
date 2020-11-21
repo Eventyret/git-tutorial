@@ -1,5 +1,5 @@
-
 # return of the jedi
+
 <!-- markdownlint-disable MD033 -->
 <div align="center">
 <img src="https://upload.wikimedia.org/wikipedia/en/d/d7/Ahsoka_Tano.png" height="350" width="350">
@@ -73,4 +73,3 @@ In addition, if it is not obvious, you should also describe how to run your code
 
 - I received inspiration for this project from X
 - [Simen Daehlin](https://github.com/Eventyret) - [The Padwan Project](https://github.com/Eventyret/Padawan)
-  
